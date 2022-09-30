@@ -1,4 +1,3 @@
 # Progeto numero 1
- o primeiro de muitos se Deus quiser
- vamos fazer um progetinho felas??
-Progeto ta escrito co g pq nao pega o gota do meu teclado!! :/
+com o tempo nos vamos tentar botar codigos, variaveis e sintaxe para 
+aprendermos mais do git e github pdp
