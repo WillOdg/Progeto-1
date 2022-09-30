@@ -6,5 +6,3 @@ Agradeço ao professor Gustavo Guanabara ele é lindo:D
 não to entendendo pq sai tudo bagunçado X/
 se alguem poder me audar AGRADEÇO!!
 catapimbas meuo, edições direto no site
-
-
